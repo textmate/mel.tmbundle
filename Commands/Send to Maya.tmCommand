@@ -24,15 +24,25 @@ end
 	<string>document</string>
 	<key>input</key>
 	<string>selection</string>
+	<key>inputFormat</key>
+	<string>text</string>
 	<key>keyEquivalent</key>
 	<string>@r</string>
 	<key>name</key>
 	<string>Send to Maya</string>
-	<key>output</key>
-	<string>showAsTooltip</string>
+	<key>outputCaret</key>
+	<string>afterOutput</string>
+	<key>outputFormat</key>
+	<string>text</string>
+	<key>outputLocation</key>
+	<string>toolTip</string>
 	<key>scope</key>
 	<string>source.mel</string>
+	<key>semanticClass</key>
+	<string>process.run.mel</string>
 	<key>uuid</key>
 	<string>F122D96A-781F-4934-89AD-3BE0BFCDB3C1</string>
+	<key>version</key>
+	<integer>2</integer>
 </dict>
 </plist>
